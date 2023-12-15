@@ -1,1 +1,43 @@
-
+body{
+  background-color: #9966CC;
+}
+h1{
+  font-size:400%;
+  font-family: "Lucida Handwriting";
+  letter-spacing:3px;
+  color:white;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+p{
+  font-size:190%;
+  font-family: "Lucida Handwriting";
+  color: white;
+}
+img{
+ width:850px;
+  border-style: solid;
+  border-color: white;
+}
+iframe{
+  border-style: dashed;
+  border-color: FFD700;
+}
+ul{
+  text-align: center;
+  list-style-type:none;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 30px;
+  color: #00BFFF;
+  text-decoration: none;
+  font-family: "Lucida Handwriting";
+}
+li a:hover{
+  background-color:;
+  color:red;
+}
